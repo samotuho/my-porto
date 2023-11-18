@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-porto/static/css/main.40fb7d21.css",
+    "main.js": "/my-porto/static/js/main.b6f6bb6e.js",
+    "static/media/sertifikat11.jpg": "/my-porto/static/media/sertifikat11.4cbed288fedce620a746.jpg",
+    "static/media/sertifikat13.jpg": "/my-porto/static/media/sertifikat13.aa4be92caa643530a697.jpg",
+    "static/media/sertifikat12.jpg": "/my-porto/static/media/sertifikat12.e6168d4c105a68c7b22e.jpg",
+    "static/media/sertifikat8.jpg": "/my-porto/static/media/sertifikat8.c794b7c3567490ea46df.jpg",
+    "static/media/sertifikat3.jpg": "/my-porto/static/media/sertifikat3.19058ca971c18ad8298d.jpg",
+    "static/media/sertifikat5.jpg": "/my-porto/static/media/sertifikat5.b3d871d538d4f5b02374.jpg",
+    "static/media/certified developer.jpg": "/my-porto/static/media/certified developer.c8d1de006b19a2306505.jpg",
+    "static/media/sam.png": "/my-porto/static/media/sam.04db392cd1b4bd7f3e80.png",
+    "static/media/samotuho-ndruru.png": "/my-porto/static/media/samotuho-ndruru.64fb58cff08a9dbe697e.png",
+    "static/media/konten.jpg": "/my-porto/static/media/konten.bf337eb0527393e31d04.jpg",
+    "static/media/sertifikat2.jpg": "/my-porto/static/media/sertifikat2.4436332ae6373d54aa4a.jpg",
+    "static/media/sertifikat1.jpg": "/my-porto/static/media/sertifikat1.8ecefa00d85e1d5ddab3.jpg",
+    "static/media/sertifikat10.jpg": "/my-porto/static/media/sertifikat10.910e9e54eef3d819a349.jpg",
+    "static/media/sertifikat9.jpg": "/my-porto/static/media/sertifikat9.8058e242cc02c0eb7b34.jpg",
+    "static/media/sertifikat7.jpg": "/my-porto/static/media/sertifikat7.e8d628ac549e6f6eb7b8.jpg",
+    "static/media/sertifikat6.jpg": "/my-porto/static/media/sertifikat6.4298685d722b50de28e9.jpg",
+    "static/media/sertifikat4.jpg": "/my-porto/static/media/sertifikat4.97843aa1b9163577df0c.jpg",
+    "static/media/express.png": "/my-porto/static/media/express.532b3d870921017e6a0d.png",
+    "static/media/vendor portal.jpg": "/my-porto/static/media/vendor portal.5d9f90f6c880a4372a0d.jpg",
+    "static/media/sistem_informasi_pariwisata_pulau_nias.jpg": "/my-porto/static/media/sistem_informasi_pariwisata_pulau_nias.af854f0473112c0b1590.jpg",
+    "static/media/cv.distributor_telur_sejahtera.jpg": "/my-porto/static/media/cv.distributor_telur_sejahtera.169b479b35a1bb795dc5.jpg",
+    "static/media/javascript.png": "/my-porto/static/media/javascript.14380c26e5a022e67159.png",
+    "static/media/reactjs.png": "/my-porto/static/media/reactjs.86f2b72002dd67ffce06.png",
+    "static/media/html_css.jpg": "/my-porto/static/media/html_css.1ebfcbc79d5931a5aee4.jpg",
+    "index.html": "/my-porto/index.html",
+    "main.40fb7d21.css.map": "/my-porto/static/css/main.40fb7d21.css.map",
+    "main.b6f6bb6e.js.map": "/my-porto/static/js/main.b6f6bb6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40fb7d21.css",
+    "static/js/main.b6f6bb6e.js"
+  ]
+}
